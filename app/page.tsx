@@ -22,7 +22,7 @@ export default function Home() {
       <main className="flex min-h-screen flex-col items-center">
         <div className='bg-purple-300 p-8 border-b-2 border-black h-1/2 w-full'>
           <div className='border-solid border-2 border-black bg-white w-full h-full p-4'>
-            Today's Plan
+            Todays Plan
           </div>
         </div>
         <div className='bg-lime-300 p-8 h-1/2 w-full'>
